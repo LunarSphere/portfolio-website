@@ -1,3 +1,8 @@
+#Intro 
+Hello, this website was created following the Free Code Camp portfolio website guide. 
+As, of 7/01/24 this website is still under construction and I plan to complete it by the end of summer. 
+My goal is to redesign it so that it looks nothing like the original. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
